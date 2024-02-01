@@ -8,4 +8,12 @@ Here are some ideas of how AI domain can be practically used in **Stock Trading*
 * Published date: Dec 4, 2023 10:00AM EST
 
 
+## Highlights
+
+...#TODO...
+
+
+
+
+
 
