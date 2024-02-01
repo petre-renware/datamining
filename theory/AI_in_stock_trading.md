@@ -5,7 +5,7 @@ Here are some ideas of how AI domain can be practically used in **Stock Trading*
 
 * Original source: [AI Trading – What is AI Trading & How It’s Used In Stock Trading](https://www.nasdaq.com/articles/ai-trading-what-is-ai-trading-how-its-used-in-stock-trading)
 * Author: ...#TODO...
-* Issued at: ...#TODO
+* Published date: Dec 4, 2023 10:00AM EST
 
 
 
